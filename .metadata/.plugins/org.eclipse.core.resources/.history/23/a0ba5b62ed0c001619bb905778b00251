@@ -1,0 +1,18 @@
+package com.assignment.shape;
+
+import junit.framework.Assert;
+import org.junit.Test;
+import org.junit.Before;
+
+import com.assignment.model.Point;
+import com.assignment.shape.TriangleType;
+
+
+public class TestTriangleType {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

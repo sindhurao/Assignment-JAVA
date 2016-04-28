@@ -1,0 +1,178 @@
+2016-04-27 21:40:09,714 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-27 21:40:20,956 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: LinkedList:LinkedList:0.0.1-SNAPSHOT @ /Users/sins/Documents/New/LinkedList/pom.xml.
+2016-04-27 21:40:21,370 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:40:21,377 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:40:21,380 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:40:21,380 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:40:21,423 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LinkedList/src
+2016-04-27 21:40:21,424 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /LinkedList/src/test/java because it overlaps with /LinkedList/src
+2016-04-27 21:40:21,493 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-27 21:40:21,891 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: LinkedList:LinkedList:0.0.1-SNAPSHOT @ /Users/sins/Documents/New/LinkedList/pom.xml.
+2016-04-27 21:40:22,090 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LinkedList/src
+2016-04-27 21:40:22,091 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /LinkedList/src/test/java because it overlaps with /LinkedList/src
+2016-04-27 21:40:22,132 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-04-27 21:40:22,406 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:40:22,407 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:40:22,409 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:40:22,414 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:41:17,303 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:41:17,303 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:41:17,305 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:41:17,312 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:41:38,021 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:41:38,024 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:41:38,026 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:41:38,027 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:42:03,721 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:42:03,723 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:42:03,724 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:42:03,725 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:42:25,626 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:42:25,627 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:42:25,628 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:42:25,635 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:43:05,198 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:43:05,198 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:43:05,200 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:43:05,206 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:43:27,308 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:43:27,309 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:43:27,311 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:43:27,313 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:46:58,620 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:46:58,621 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/main/resources
+2016-04-27 21:46:58,623 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:46:58,624 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/LinkedList/src/test/resources
+2016-04-27 21:48:12,131 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CompareLists:CompareLists:0.0.1-SNAPSHOT @ /Users/sins/Documents/New/CompareLists/pom.xml.
+2016-04-27 21:48:12,184 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CompareLists/src
+2016-04-27 21:48:12,185 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CompareLists/src/test/java because it overlaps with /CompareLists/src
+2016-04-27 21:48:12,229 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-27 21:48:12,262 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CompareLists:CompareLists:0.0.1-SNAPSHOT @ /Users/sins/Documents/New/CompareLists/pom.xml.
+2016-04-27 21:48:12,312 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CompareLists/src
+2016-04-27 21:48:12,313 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CompareLists/src/test/java because it overlaps with /CompareLists/src
+2016-04-27 21:48:12,347 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-04-27 21:48:12,461 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:48:12,461 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:48:12,462 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:48:12,469 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:48:38,887 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:48:38,888 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:48:38,889 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:48:38,896 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:48:52,812 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:48:52,812 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:48:52,814 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:48:52,820 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:49:30,503 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:49:30,503 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:49:30,504 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:49:30,506 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:49:56,232 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:49:56,232 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:49:56,235 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:49:56,235 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:50:17,724 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:50:17,724 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:50:17,725 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:50:17,726 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:50:32,269 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:50:32,270 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:50:32,271 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:50:32,272 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:51:13,203 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:51:13,203 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:51:13,205 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:51:13,211 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:51:37,755 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:51:37,755 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:51:37,756 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:51:37,763 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:51:53,288 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:51:53,289 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:51:53,290 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:51:53,290 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:52:23,527 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:52:23,527 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:52:23,528 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:52:23,535 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:52:39,186 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:52:39,187 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:52:39,188 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:52:39,189 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:53:29,016 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:53:29,017 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/main/resources
+2016-04-27 21:53:29,017 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:53:29,022 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/CompareLists/src/test/resources
+2016-04-27 21:55:08,257 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TriangleType:TriangleType:0.0.1-SNAPSHOT @ /Users/sins/Documents/New/TriangleType/pom.xml.
+2016-04-27 21:55:08,334 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TriangleType/src
+2016-04-27 21:55:08,335 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TriangleType/src/test/java because it overlaps with /TriangleType/src
+2016-04-27 21:55:08,365 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-27 21:55:08,394 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TriangleType:TriangleType:0.0.1-SNAPSHOT @ /Users/sins/Documents/New/TriangleType/pom.xml.
+2016-04-27 21:55:08,483 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TriangleType/src
+2016-04-27 21:55:08,484 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TriangleType/src/test/java because it overlaps with /TriangleType/src
+2016-04-27 21:55:08,520 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-04-27 21:55:08,682 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:55:08,682 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:55:08,683 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:55:08,690 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:55:15,701 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:55:15,702 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:55:15,703 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:55:15,710 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:55:32,759 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:55:32,759 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:55:32,760 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:55:32,764 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:55:49,074 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:55:49,075 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:55:49,076 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:55:49,078 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:56:30,585 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:56:30,585 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:56:30,586 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:56:30,596 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:57:24,615 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:57:24,617 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:57:24,619 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:57:24,620 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:57:54,627 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:57:54,628 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:57:54,629 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:57:54,631 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:58:22,126 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:58:22,126 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:58:22,127 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:58:22,128 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:58:26,938 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:58:26,938 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:58:26,939 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:58:26,943 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:59:07,441 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:59:07,442 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:59:07,443 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:59:07,450 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:59:32,398 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:59:32,399 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:59:32,400 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:59:32,407 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 21:59:49,886 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:59:49,887 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 21:59:49,887 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 21:59:49,888 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 22:00:12,196 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 22:00:12,196 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 22:00:12,197 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 22:00:12,199 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 22:00:37,954 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 22:00:37,954 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/main/resources
+2016-04-27 22:00:37,955 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-27 22:00:37,957 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sins/Documents/New/TriangleType/src/test/resources
+2016-04-27 22:02:08,734 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-27 22:02:12,953 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sins/Documents/New/CompareLists
+2016-04-27 22:02:12,954 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2016-04-27 22:02:30,191 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-27 22:02:34,819 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sins/Documents/New/LinkedList
+2016-04-27 22:02:34,820 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2016-04-27 22:02:48,484 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-27 22:02:52,181 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sins/Documents/New/TriangleType
+2016-04-27 22:02:52,181 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
